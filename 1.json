@@ -7,12 +7,12 @@
             "birthday": 773798400000,
             "_id": "66573b6ae9287a000112b333"
         },
-        "id": "66573b6ae9287a000112b333_9223370302595455807_hk",
+        "id": "66573b6ae9287a000112b333_9223370302510125807_hk",
         "feel": -1,
-        "calorie": 36,
-        "duration": 489,
-        "startTime": 1734257920000,
-        "endTime": 1734259320000,
+        "calorie": 25,
+        "duration": 251,
+        "startTime": 1734344090000,
+        "endTime": 1734344650000,
         "type": "hiking",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -32,7 +32,7 @@
         "eventInfos": [
             {
                 "eventId": "676342008618104",
-                "eventName": "互联护苗 2024 线上挑战赛",
+                "eventName": "互联护苗-2024 线上挑战赛",
                 "eventItemId": "676342008618104",
                 "eventItemName": "",
                 "eventThemeId": "",
@@ -46,9 +46,9 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAE52UsQrCMBRF935F6Nwh772kSdz8AMFdHBQyZNDBVhDEf7ei40UuHbqkHE7fy+09dM49l8e5/lxP87Svt1273ufau43Lafi+mtulbh9t+hxK9Mvha/gHig+ANE+QMgIyME7JgBwpZwFkYpwWAVkYpynaraeWiwYVZazeEGqEtUBpJKTFI3IknBk682pnYeZEmVehlovCoEplF32vhtXh1UilVxCaGKtCa2asiv7wpRsYFMXXqEZSdK/GVRJak3GdBGflSgkVhFGtJLB9qVqCswamljJKRPi1Und8A1ZhFSdpBgAA",
-            "averageHeartRate": 111.0,
-            "maxHeartRate": 135,
+            "heartRates": "H4sIAAAAAAAAE53SsQrCMBDG8b1PcXTukLvYtHHzAQT34qCQIYMONoJQfHeLXT/KR4YsF/78SLipEVnWI9Le063Ml/Q65+e7pFaOojp0213Jj3T65Pk/7d06/Ha7pSkovWPKAMoDZXpQBsocQTlQpoEyMqYiU101qka9FKa+Xu3r3xoY1cEVHBnVRZRGRlW0SqbUDyPVbFOb6w8JdWhHcQMAAA==",
+            "averageHeartRate": 119.0,
+            "maxHeartRate": 129,
             "wearableDevices": [
                 {
                     "macAddress": "06:05:13:60:A6:6D",
@@ -78,9 +78,9 @@
         "badgeAchievementCard": null,
         "goalType": "casual",
         "goalValue": 0,
-        "distance": 529.0,
-        "averagePace": 924,
-        "averageSpeed": 3.8,
+        "distance": 257.0,
+        "averagePace": 976,
+        "averageSpeed": 3.6,
         "polylineSnapshot": null,
         "constantVersion": null,
         "rawDataURL": null,
@@ -105,7 +105,7 @@
         "accumulativeClimbingDistance": 0.0,
         "mapboxStyle": null,
         "privacy": false,
-        "stepPoints": "H4sIAAAAAAAAE62XsU7DMBRF936F1bmD7Wf72cx8ABJsiCGqMkSiadWmE+LfCQyE4WbI4w5ZbCU6OpKfT153zn3Mj3P74/167cfp5Tx174/DberGY793D84fwP792k3Defy7Pw2nfn7rdAEvPXXr33qe+svtezOWefPz8H+ikBHS7+oWppxJTAI1icVTZTEl6ClZPIWQSFAFiioWUSEJCUqhKTWZUhZUg6aa6ej5yDp7Hh8+b3EVJbCwIpS1LG8bVJ6FJdiWmGxppQ1QbCtbbIlXFlbBtorFlggNq2Jb1WSr0G7Bhm01k63GunRigLaW5S1YKbKGaYzQ1rK8CSuzxmlM2FYy2ao0rIxtZVNjBRqWYltqsZUTDatiW9VkS1l3oviVJrXYKp6GhfNdTP1eYmNhrRS8KeELrSAER7yYKr4o7XcHZ7yYOl49zRYOeTGVvEZWQQhOeTG1vGbWr1jCLZ9MLa/KCpuEWz6ZWl7bz9zavX0BHk7tRwoRAAA=",
+        "stepPoints": "H4sIAAAAAAAAE63Uuw6CMBTG8Z2naJwZ6IVenH0AE92MAyEMJHIJlMn47qKDOHwOPZ6B5TQl//ya9pIJcV8/IXb1Mk1NH89DrG6Hdo5VXzc7sRdFDtaXqYrt0H+vx7Zr1l3dCDYdq9//OsVmnF+LSq2Lj/z/IlmipM80pck4piYNmTTFyRqmJgOdDMUpcJ2dhU6W4iQlF5SDUI4CJbVligpQKpCkbMF19Qp89wqSlfdcWQpibeOkd0qWXFkaa2mKljJ87yfWKklalu0QLdayJK3A9ThIj7U8RUsryZUVsFagaGkTmLKUhFrbOCnLcR2iUlBrGydl+XdWdn0CpQGvvF4JAAA=",
         "fullStepPoints": null,
         "baselineAltitude": 0.0,
         "trainingDevices": null,
@@ -137,9 +137,9 @@
             "schema": null
         },
         "rpeFeedBack": null,
-        "totalSteps": 791,
+        "totalSteps": 384,
         "stepFrequencies": null,
-        "averageStepFrequency": 97.0,
+        "averageStepFrequency": 91.0,
         "maxDiffOfAltitude": 0.0,
         "kelotonData": null
     },
