@@ -7,12 +7,12 @@
             "birthday": 773798400000,
             "_id": "66573b6ae9287a000112b333"
         },
-        "id": "66573b6ae9287a000112b333_9223370291373645807_hk",
-        "feel": -1,
-        "calorie": 79,
-        "duration": 860,
-        "startTime": 1745479920000,
-        "endTime": 1745481130000,
+        "id": "66573b6ae9287a000112b333_9223370291263378477_hk",
+        "feel": 3,
+        "calorie": 20,
+        "duration": 199,
+        "startTime": 1745591197798,
+        "endTime": 1745591397330,
         "type": "hiking",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -36,22 +36,16 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAE6XXsU7DMBSF4b1PEXXukGtf+zpsPAASO2IoUoYORYgGCQnx7rTQgeE3HLVDF1c6OnFsf/HDahg+jr9hWD/N2+VwP7/e7Z7flnk93Aw2jpuf/5bdfj4s2/3L93D5PXz7vjucR4+Dn5u/AqdKeXmkvOPo/3mN8hz7udCv88AVC1ahoI1GgYENQ5lBfOIJC04Xz6CN/IpHaQ4TRibseBq+tGTmklmZxqmzsDsrW3lsjqxcsiozaY6RjVs2paXhDrSJW05Ky4RLPBm2PA0LkdgyJWx5GhYicS6Tc0uXWhaMLNyyXNEyuGVILXE7psYtm9Qyd47xzjl+eSRTkxVrzHBD5o42Cjdm3JLByZI4vCEzk5MlcwzfeGZ0sqKOGbqY2Z2swNOZS2d5XJLHcEM6y+OKPL1IpscVejqnurM9LtnTiWR7/Ap7nO1xzR6OZHtcsseCIgvbUyR7eEMWtqdI9vDuKWxPkewxRLewPUWzhyPZniLZw0dwYXuKZk/vC73zia5EYsvK9lTJHv6AqWxPlexhISvbUyV7Eu6e2rnuSPZ0ItmeKtnDn1mV7amaPfjGg+0JzR588GB7QrMHz8tge0KzB29SwfaEZg/PJdsTkj28iILtCckePtyC7QnJHr7wNbanSfaMeGw0tqcp9vBFtzE9TaGHL+ON5WlneVaPXwObzblpEgAA",
-            "averageHeartRate": 114.0,
-            "maxHeartRate": 129,
-            "wearableDevices": [
-                {
-                    "macAddress": "06:05:13:60:A6:6D",
-                    "name": "Keep 手环 B2",
-                    "deviceType": "kitbit"
-                }
-            ]
+            "heartRates": "H4sIAAAAAAAAE4vm4ooFAKoX6t8EAAAA",
+            "averageHeartRate": 0.0,
+            "maxHeartRate": 0,
+            "wearableDevices": []
         },
         "vendor": {
             "source": "Keep",
-            "manufacturer": "Kit",
-            "genre": "Kitbit",
-            "deviceModel": "Keep 手环 B2",
+            "manufacturer": null,
+            "genre": "AutoGene",
+            "deviceModel": "",
             "vendorRecordId": null
         },
         "planId": null,
@@ -64,39 +58,21 @@
         "feedback": null,
         "feedbacks": null,
         "playType": null,
-        "dataType": "outdoorWalking",
+        "dataType": "stairClimbing",
         "badgeAchievementCard": null,
         "goalType": "casual",
         "goalValue": 0,
-        "distance": 1083.0,
-        "averagePace": 794,
-        "averageSpeed": 4.5,
+        "distance": 0.0,
+        "averagePace": 1,
+        "averageSpeed": 0.0,
         "polylineSnapshot": null,
         "constantVersion": null,
         "rawDataURL": null,
-        "crossKmPoints": [
-            {
-                "id": null,
-                "kmPace": 775,
-                "kmNO": 1,
-                "latitude": 0.0,
-                "longitude": 0.0,
-                "altitude": 0.0,
-                "timestamp": 0,
-                "totalDistance": 1000.0,
-                "totalDuration": 775.0,
-                "totalSteps": 1421.0,
-                "averagePointsNum": 0.0,
-                "averageAccuracyRadius": 0.0,
-                "totalCalories": 0,
-                "averageHeartRate": 0,
-                "stepFrequency": 0
-            }
-        ],
+        "crossKmPoints": [],
         "geoPoints": "",
         "region": {
-            "latitude": 22.732319,
-            "longitude": 114.2693,
+            "latitude": 22.732285,
+            "longitude": 114.269287,
             "country": "中国",
             "nationCode": "156",
             "province": "广东省",
@@ -109,11 +85,11 @@
         },
         "weatherInfo": null,
         "targetSpm": 0,
-        "accumulativeUpliftedHeight": 0.0,
+        "accumulativeUpliftedHeight": 15.0,
         "accumulativeClimbingDistance": 0.0,
         "mapboxStyle": null,
         "privacy": false,
-        "stepPoints": "H4sIAAAAAAAAE52ay2pcRxCG934K4bVpuu5VWecBAskuZCGMFob4giyvQt49dSRDhKieLhqhzRxm9Ovvun1d8+e7u7t/8vfu7v3HH4+PD1+e/vj6dP/3r5++P91/+fjw/u6XO7ARSArKM2iCiX8o3vDj8f7p09cv1xvmz+dPnz4/5Md8/vb6xZ9v+u3+5cOdtPi0358evn2/HqPmw38/7EWSDiHVidePkhpuRIJUKkFWOqfc0inU1CkygEM8hFyMEWKjk0o3aZ7p9NnUaTxYIBiZydlUqmN6rZNLP3nlp5nd0gnTm0IDB5mIsljqFYLdwWtpqC4NvR2gQNwUCgBDzQKMfbK6VQf1WqiVjtqpo4pdoTQHxozpnv9d4+ijdDQOQxQ8ukLZR0xyZ3fT6+x3OT/rpJ+HWY/QLU+gPnAqUgYARuPwAUtT8+Wz48887kp1HQ6BGIASjeMHql2lU1cNmlJxymBCxMlZUT0r1bbo167KYaxidMsUIg+jLFJEyijm21jV2lU9zH9qt1JkHCoObq6KMIN3Ur121Q9rKkm3VKGmVI6YSEz7nIra0lha+vbBG53eDlSHkVqzpAaJZPHfBWraXknNl88Cldv9NCeLISrIGQI4s53uXEUsXc2XzwKVqT3zQQwwxyz8Rp4e71o/cu0qn7qq3bGPKKVqhGdVnSC6d1VqV+UwVjm6OUViI02Nl4q6TSq02lM79DSHuK5QszFdKPsFt5R6bakfBqqwdZWGDA2nefUqbZz+/+P926n/0FTrdn8GGflXkvVcAzhHlp3UGqRoSVIbVxPhulKJR1o6c1Ilei5VO6kLllrC1E4qdWmKBUeAhAvMC/q29Z9qnKIlT20CQKUbq2wwBD3iKlepdJtWVAMVrYlqI9XbseqRkIqaQToBrOFqjVS0ZKrNoGLQDQCZlpiqOalap6dSjVS0ZqqN0HZPTTuTUl3cXa1x+lwjFS+RapNTpt3TF5YRPkNajnLNU3zKU9bupzlMDfQcvxm01fq55ile8tRGao5xXanOQ1yUkJA7uc81T/GSp3ZSuTum6qSRMZqtKuH/Gv22Umue4lOecuumVGb9SEOeUXovs2YpXrPU7WqavbErk2EA5KjyfH3aOfwap3iJUzup7XaqOkdmUzb9tMUahy81TskSpzaHn8NxV6rFmNi785GapGRJUjtDXboqw5KjEQ2DW01fapKSU5JKKOrWUwMdwZzhmtHayXypUUrWKLW7m+b2LTrpQE4UCjTrXFFITVOypKmtVu1GqokM4UiqYn4e/Ldaa56SU56CGd2SanZpzVlatddTtQYqXQLVBqchw66rNeEvITUntGjZqjVQ6RqodlKlO1J5wp8gC2kvs7QGKl0D1U6qd7uVU0oFzbpKvUFVa6LS9YZqoxXbFcuFh4PnyCKtWF1sqJZAtcsrbNcrt0vpJKWXfcpea01Uut5S7VzV7vWPR2qd11IlehOg1lClS6jaam3f/mfmj2wbTJmMratqq7HKTrEK+tf/QTSyTlkEXSv/fbxajVZ2ilZA7YKVw+qwGaDtnWrNVnbKVkDerQJhl9bp2bJ6FytWw5Wt4WoTrzkxdbUGjjkTA9m11Qmspis7pStgam+B09McBto3AVYTli0JK+btbwD0twAwUQfnAGsdHLCar2zNV5uvKnB/sz6ZMlglsmxAp7t6DVi+3lfZ7VgVaO+rs0QNAo+EmNbluteY5aeYlfNVN69yYo0h0l0DeE1Zvqasnava/sLCdNqpq7nKl1zFOf/clvey+X/31383EEUOliYAAA==",
+        "stepPoints": "",
         "fullStepPoints": null,
         "baselineAltitude": 0.0,
         "trainingDevices": null,
@@ -134,7 +110,21 @@
         "overseasMapInfo": null,
         "equipmentInfo": null,
         "fences": null,
-        "heartRateGuide": null,
+        "heartRateGuide": {
+            "title": "连接心率设备",
+            "picture": "https://static1.keepcdn.com/infra-cms/2024/3/14/18/52/553246736447566b58312b6e536d45724d31554a72686a5172647631715057797775575658426f714c76553d/600x420_3050b13536d61df7667c4261872877f756c6c636.png",
+            "schema": "keep://kitbit/main",
+            "name": "解锁心率和最大摄氧量数据，获取更精准的运动能力与状态",
+            "button": "立即解锁",
+            "buttonTextColour": "#24c789",
+            "buttonBgColour": [
+                "#ffffff"
+            ],
+            "backgroundColour": [
+                "#f6fbf7",
+                "#ffffff"
+            ]
+        },
         "trainingEffect": null,
         "webviewCards": [],
         "feelFeedback": {
@@ -145,9 +135,9 @@
             "schema": null
         },
         "rpeFeedBack": null,
-        "totalSteps": 1571,
-        "stepFrequencies": null,
-        "averageStepFrequency": 109.0,
+        "totalSteps": 0,
+        "stepFrequencies": "H4sIAAAAAAAAAIuOBQApu0wNAgAAAA==",
+        "averageStepFrequency": 0.0,
         "maxDiffOfAltitude": 0.0,
         "kelotonData": null
     },
