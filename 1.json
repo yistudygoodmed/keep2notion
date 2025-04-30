@@ -7,12 +7,12 @@
             "birthday": 773798400000,
             "_id": "66573b6ae9287a000112b333"
         },
-        "id": "66573b6ae9287a000112b333_9223370290992492837_hk",
-        "feel": 3,
-        "calorie": 1,
-        "duration": 17,
-        "startTime": 1745862265066,
-        "endTime": 1745862282970,
+        "id": "66573b6ae9287a000112b333_9223370290919225807_hk",
+        "feel": -1,
+        "calorie": 13,
+        "duration": 190,
+        "startTime": 1745934880000,
+        "endTime": 1745935550000,
         "type": "hiking",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -36,16 +36,22 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAE4vm4ooFAKoX6t8EAAAA",
-            "averageHeartRate": 0.0,
-            "maxHeartRate": 0,
-            "wearableDevices": []
+            "heartRates": "H4sIAAAAAAAAE42SsQrCMBRF937Fo3OH95qa+Nz8AMFdHCpkyFARG6Eg/rupOjjc6huynMDhhNxDRXQvh6g+xT6P+3jdpfMtx5o2pOvmfZXTEMfcD5eZyoq/8HZK44cW+Gh++YQ9EjpGwkINwoCEHSzsDIWqyOdhoDcFMhIGGBgsgS3yKQxUQ6AK/GLGf8yWQvhiaWHijP8b4WrE4UZnGaK4hWUvTPulrI5P1jBtfS4DAAA=",
+            "averageHeartRate": 99.0,
+            "maxHeartRate": 113,
+            "wearableDevices": [
+                {
+                    "macAddress": "06:05:13:60:A6:6D",
+                    "name": "Keep 手环 B2",
+                    "deviceType": "kitbit"
+                }
+            ]
         },
         "vendor": {
             "source": "Keep",
-            "manufacturer": null,
-            "genre": "AutoGene",
-            "deviceModel": "",
+            "manufacturer": "Kit",
+            "genre": "Kitbit",
+            "deviceModel": "Keep 手环 B2",
             "vendorRecordId": null
         },
         "planId": null,
@@ -58,13 +64,13 @@
         "feedback": null,
         "feedbacks": null,
         "playType": null,
-        "dataType": "stairClimbing",
+        "dataType": "outdoorWalking",
         "badgeAchievementCard": null,
         "goalType": "casual",
         "goalValue": 0,
-        "distance": 0.0,
-        "averagePace": 1,
-        "averageSpeed": 0.0,
+        "distance": 160.0,
+        "averagePace": 1187,
+        "averageSpeed": 3.0,
         "polylineSnapshot": null,
         "constantVersion": null,
         "rawDataURL": null,
@@ -85,11 +91,11 @@
         },
         "weatherInfo": null,
         "targetSpm": 0,
-        "accumulativeUpliftedHeight": 6.0,
+        "accumulativeUpliftedHeight": 0.0,
         "accumulativeClimbingDistance": 0.0,
         "mapboxStyle": null,
         "privacy": false,
-        "stepPoints": "",
+        "stepPoints": "H4sIAAAAAAAAE52Uu27DMAxF93yF0TkQ+BBJqXM/oEC7FR2MwEOA5oHEmYr+e+Um6FOylA5eJJA4PhTv06LrXtPXdTer0+EwbMfH3di/3K2PY79dDTfdbeddIJOgaB4QiUGWmYLToR/Xu+1UAJf7cb0ZUpvN/vvhpei+PzdnBMu0exiH/XG6t3T3tqxDEjnQEFUiYlAh9hVIlBwlSoEzGMxhMjVyenAfmMLAUQQsVDg5a5OhxJmdzienxEZOEYdGHlXTnyMaxgqnz/r0JZ8IPAsaoBHUxAWlNHs0JY3CWAHVrFAtCTWa5URsBY3XGrWsUSsZNdNZUA6NoAjiZEIlz6gelCqgMWs0lozin0fxi1S4lRTBsfeBmVM2pZ2vLj3ktx5KUmvxhNo6fqQrrSJltabjAmsMuSz5Qg2tGYWe3BT4hIQSCKorhZzXyv9MU4LW2EfNNfqZ83mNUkzQCts56hfP7xYLOXg6BwAA",
         "fullStepPoints": null,
         "baselineAltitude": 0.0,
         "trainingDevices": null,
@@ -110,21 +116,7 @@
         "overseasMapInfo": null,
         "equipmentInfo": null,
         "fences": null,
-        "heartRateGuide": {
-            "title": "连接心率设备",
-            "picture": "https://static1.keepcdn.com/infra-cms/2024/3/14/18/52/553246736447566b58312b6e536d45724d31554a72686a5172647631715057797775575658426f714c76553d/600x420_3050b13536d61df7667c4261872877f756c6c636.png",
-            "schema": "keep://kitbit/main",
-            "name": "解锁心率和最大摄氧量数据，获取更精准的运动能力与状态",
-            "button": "立即解锁",
-            "buttonTextColour": "#24c789",
-            "buttonBgColour": [
-                "#ffffff"
-            ],
-            "backgroundColour": [
-                "#f6fbf7",
-                "#ffffff"
-            ]
-        },
+        "heartRateGuide": null,
         "trainingEffect": null,
         "webviewCards": [],
         "feelFeedback": {
@@ -135,9 +127,9 @@
             "schema": null
         },
         "rpeFeedBack": null,
-        "totalSteps": 0,
-        "stepFrequencies": "H4sIAAAAAAAAAIuOBQApu0wNAgAAAA==",
-        "averageStepFrequency": 0.0,
+        "totalSteps": 232,
+        "stepFrequencies": null,
+        "averageStepFrequency": 73.0,
         "maxDiffOfAltitude": 0.0,
         "kelotonData": null
     },
